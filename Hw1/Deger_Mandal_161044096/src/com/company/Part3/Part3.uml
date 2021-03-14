@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="114.00000000000011" y="296.5">com.company.Part3.Ora</node>
+    <node x="643.1250000000001" y="263.0">com.company.Part3.ArmoredSuitsDecorator</node>
+    <node x="377.3045112781957" y="0.0">com.company.Part3.ArmoredSuits</node>
+    <node x="749.5000000000001" y="432.0">com.company.Part3.Laser</node>
+    <node x="230.0000000000001" y="296.5">com.company.Part3.Dec</node>
+    <node x="421.0874060150378" y="554.0">com.company.Part3.Main</node>
+    <node x="506.5000000000001" y="432.0">com.company.Part3.FlameThrower</node>
+    <node x="0.0" y="296.5">com.company.Part3.Tor</node>
+    <node x="945.5000000000001" y="432.0">com.company.Part3.RocketLauncher</node>
+    <node x="288.5000000000001" y="432.0">com.company.Part3.AutoRifle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.FlameThrower">
+      <point x="10.1875" y="-26.0" />
+      <point x="512.7749060150378" y="504.0" />
+      <point x="618.0000000000001" y="504.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.Dec" target="com.company.Part3.ArmoredSuits">
+      <point x="-24.0" y="-26.0" />
+      <point x="254.0000000000001" y="223.0" />
+      <point x="435.48308270676716" y="223.0" />
+      <point x="-32.321428571428555" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuits">
+      <point x="-55.75" y="-26.0" />
+      <point x="562.2500000000001" y="402.0" />
+      <point x="578.8125000000001" y="402.0" />
+      <point x="578.8125000000001" y="243.0" />
+      <point x="474.2687969924814" y="243.0" />
+      <point x="6.464285714285666" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.Ora" target="com.company.Part3.ArmoredSuits">
+      <point x="-24.0" y="-26.0" />
+      <point x="138.0000000000001" y="203.0" />
+      <point x="409.6259398496243" y="203.0" />
+      <point x="-58.178571428571445" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuits">
+      <point x="-49.499999999999886" y="-26.0" />
+      <point x="338.0000000000002" y="243.0" />
+      <point x="461.34022556390994" y="243.0" />
+      <point x="-6.464285714285779" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuitsDecorator">
+      <point x="55.75" y="-26.0" />
+      <point x="673.7500000000001" y="412.0" />
+      <point x="711.0000000000001" y="412.0" />
+      <point x="-22.625" y="59.5" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.Dec">
+      <point x="-30.5625" y="-26.0" />
+      <point x="472.0249060150378" y="514.0" />
+      <point x="278.0000000000001" y="514.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuitsDecorator">
+      <point x="-58.0" y="-26.0" />
+      <point x="1003.5000000000001" y="402.0" />
+      <point x="801.5000000000001" y="402.0" />
+      <point x="67.875" y="59.5" />
+    </edge>
+    <edge source="com.company.Part3.Tor" target="com.company.Part3.ArmoredSuits">
+      <point x="-23.5" y="-26.0" />
+      <point x="23.5" y="183.0" />
+      <point x="383.7687969924814" y="183.0" />
+      <point x="-84.03571428571428" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuits">
+      <point x="58.0" y="-26.0" />
+      <point x="1119.5" y="193.0" />
+      <point x="538.9116541353386" y="193.0" />
+      <point x="71.10714285714289" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuitsDecorator">
+      <point x="49.500000000000114" y="-26.0" />
+      <point x="437.0000000000002" y="412.0" />
+      <point x="665.7500000000001" y="412.0" />
+      <point x="-67.875" y="59.5" />
+    </edge>
+    <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuits">
+      <point x="44.0" y="-26.0" />
+      <point x="881.5000000000001" y="412.0" />
+      <point x="876.6875000000001" y="412.0" />
+      <point x="876.6875000000001" y="203.0" />
+      <point x="525.9830827067672" y="203.0" />
+      <point x="58.178571428571445" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.AutoRifle">
+      <point x="-10.1875" y="-26.0" />
+      <point x="492.3999060150378" y="504.0" />
+      <point x="387.5000000000001" y="504.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.Ora">
+      <point x="-50.9375" y="-26.0" />
+      <point x="451.6499060150378" y="524.0" />
+      <point x="162.0000000000001" y="524.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.ArmoredSuitsDecorator" target="com.company.Part3.ArmoredSuits">
+      <point x="0.0" y="-59.5" />
+      <point x="733.6250000000001" y="223.0" />
+      <point x="500.1259398496243" y="223.0" />
+      <point x="32.321428571428555" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.ArmoredSuits">
+      <point x="71.3125" y="-26.0" />
+      <point x="573.8999060150378" y="534.0" />
+      <point x="1188.0" y="534.0" />
+      <point x="1188.0" y="183.0" />
+      <point x="551.8402255639099" y="183.0" />
+      <point x="84.03571428571422" y="81.5" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.Laser">
+      <point x="30.5625" y="-26.0" />
+      <point x="533.1499060150378" y="514.0" />
+      <point x="837.5000000000001" y="514.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.Tor">
+      <point x="-71.3125" y="-26.0" />
+      <point x="431.2749060150378" y="534.0" />
+      <point x="47.0" y="534.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.RocketLauncher">
+      <point x="50.9375" y="-26.0" />
+      <point x="553.5249060150378" y="524.0" />
+      <point x="1061.5" y="524.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuitsDecorator">
+      <point x="-44.0" y="-26.0" />
+      <point x="793.5000000000001" y="412.0" />
+      <point x="756.2500000000001" y="412.0" />
+      <point x="22.625" y="59.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

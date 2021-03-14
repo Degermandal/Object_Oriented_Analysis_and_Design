@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff6444b-0a48-43ca-a9e3-cf58daf72cb9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/HiTech.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="e#1429#1430#0" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/TrafficLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+              <folding>
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#971#972#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/GreenState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getI</find>
+      <find>class</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Part2_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/SatelliteIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/Container.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/SatelliteData.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Container.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/SatelliteData.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/GetIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/ClockwiseSatelliteData.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/GetIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/ClockwiseSatelliteData.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/Observer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/Subject.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/State.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/State.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/YellowState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/RedState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/GreenState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/RedState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/YellowState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/TrafficLight.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/GreenState.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/TrafficLight.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/HiTech.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3_2/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="width" value="1230" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="161044096_Hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_Hw2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_Hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_Hw2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_Hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_Hw2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_Hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_Hw2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_Hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_Hw2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part3_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609317661986" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Part3_2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part3.Main" />
+      <module name="161044096_Hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part3_2.Main" />
+      <module name="161044096_Hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part3_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="161044096_Hw2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part2.Main" />
+      <module name="161044096_Hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part2.Main" />
+      <module name="161044096_Hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff6444b-0a48-43ca-a9e3-cf58daf72cb9" name="Default Changelist" comment="" />
+      <created>1608929585490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608929585490</updated>
+      <workItem from="1608929596154" duration="22216000" />
+      <workItem from="1609074869109" duration="662000" />
+      <workItem from="1609088080701" duration="1922000" />
+      <workItem from="1609264455914" duration="15684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40484000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20080972" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.110124335" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5204263" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/part2_2.java" />
+    <entry file="file://$PROJECT_DIR$/161044096_Hw2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/Container.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/SatelliteData.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/GetIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/part2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/part3.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.company.Part3.State</node>
+            <node x="" y="">com.company.Part3.Main</node>
+            <node x="" y="">com.company.Part3.TrafficLight</node>
+            <node x="" y="">com.company.Part3.RedState</node>
+            <node x="" y="">com.company.Part3.YellowState</node>
+            <node x="" y="">com.company.Part3.GreenState</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8544662309368191" x="343.0000000000001" y="449.0000000000001" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/ClockwiseSatelliteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/LotOfTraffic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/part2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.company.Part2.ClockwiseSatelliteData.ClockwiseIterator</node>
+            <node x="" y="">com.company.Part2.GetIterator</node>
+            <node x="" y="">com.company.Part2.ClockwiseSatelliteData</node>
+            <node x="" y="">com.company.Part2.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9451754385964912" x="217.0" y="218.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/GreenState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376">
+          <caret line="18" column="5" lean-forward="true" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/RedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="67" lean-forward="true" selection-start-line="4" selection-end-line="67" />
+          <folding>
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/RedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/YellowState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="68" lean-forward="true" selection-start-line="4" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/YellowState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/TrafficLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/GreenState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/TrafficLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="73" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
+          <folding>
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/HiTech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.Part3_2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.Part3_2</OriginalElement>
+          <nodes>
+            <node x="722.0208333333334" y="0.0">com.company.Part3_2.Observer</node>
+            <node x="473.5" y="258.0">com.company.Part3_2.GreenState</node>
+            <node x="245.5" y="102.0">com.company.Part3_2.State</node>
+            <node x="774.1208333333333" y="1056.0">com.company.Part3_2.Main</node>
+            <node x="245.5" y="258.0">com.company.Part3_2.RedState</node>
+            <node x="10.5" y="258.0">com.company.Part3_2.YellowState</node>
+            <node x="705.5" y="258.0">com.company.Part3_2.HiTech</node>
+            <node x="250.37499999999994" y="578.0">com.company.Part3_2.TrafficLight</node>
+            <node x="738.025" y="102.0">com.company.Part3_2.Subject</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part3_2.RedState" target="com.company.Part3_2.TrafficLight">
+              <point x="0.0" y="115.0" />
+              <point x="349.5" y="558.0" />
+              <point x="354.37499999999994" y="558.0" />
+              <point x="0.0" y="-214.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.State">
+              <point x="-32.0" y="-214.0" />
+              <point x="322.37499999999994" y="518.0" />
+              <point x="235.0" y="518.0" />
+              <point x="235.0" y="238.0" />
+              <point x="307.9" y="238.0" />
+              <point x="-41.60000000000002" y="48.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.HiTech">
+              <point x="96.0" y="-214.0" />
+              <point x="450.37499999999994" y="558.0" />
+              <point x="744.6666666666666" y="558.0" />
+              <point x="-78.33333333333337" y="115.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.Observer">
+              <point x="-96.0" y="-214.0" />
+              <point x="258.37499999999994" y="558.0" />
+              <point x="0.0" y="558.0" />
+              <point x="0.0" y="72.0" />
+              <point x="739.1208333333334" y="72.0" />
+              <point x="-68.39999999999998" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3_2.Subject" target="com.company.Part3_2.Observer">
+              <point x="0.0" y="-48.0" />
+              <point x="831.525" y="82.0" />
+              <point x="807.5208333333334" y="82.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3_2.Main" target="com.company.Part3_2.TrafficLight">
+              <point x="-32.60000000000002" y="-26.0" />
+              <point x="823.0208333333333" y="1026.0" />
+              <point x="406.37499999999994" y="1026.0" />
+              <point x="52.0" y="214.0" />
+            </edge>
+            <edge source="com.company.Part3_2.YellowState" target="com.company.Part3_2.TrafficLight">
+              <point x="0.0" y="115.0" />
+              <point x="117.5" y="538.0" />
+              <point x="290.37499999999994" y="538.0" />
+              <point x="-64.0" y="-214.0" />
+            </edge>
+            <edge source="com.company.Part3_2.Main" target="com.company.Part3_2.HiTech">
+              <point x="32.60000000000002" y="-26.0" />
+              <point x="888.2208333333333" y="1036.0" />
+              <point x="876.1916666666666" y="1036.0" />
+              <point x="876.1916666666666" y="558.0" />
+              <point x="901.3333333333333" y="558.0" />
+              <point x="78.33333333333329" y="115.0" />
+            </edge>
+            <edge source="com.company.Part3_2.Main" target="com.company.Part3_2.Observer">
+              <point x="65.20000000000005" y="-26.0" />
+              <point x="920.8208333333333" y="1036.0" />
+              <point x="957.3333333333334" y="1036.0" />
+              <point x="957.3333333333334" y="72.0" />
+              <point x="875.9208333333333" y="72.0" />
+              <point x="68.39999999999998" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3_2.GreenState" target="com.company.Part3_2.TrafficLight">
+              <point x="70.33333333333331" y="115.0" />
+              <point x="649.3333333333333" y="538.0" />
+              <point x="418.37499999999994" y="538.0" />
+              <point x="64.0" y="-214.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.YellowState">
+              <point x="-80.0" y="-214.0" />
+              <point x="274.37499999999994" y="548.0" />
+              <point x="46.16666666666663" y="548.0" />
+              <point x="-71.33333333333333" y="115.0" />
+            </edge>
+            <edge source="com.company.Part3_2.HiTech" target="com.company.Part3_2.Subject">
+              <point x="0.0" y="-115.0" />
+              <point x="823.0" y="238.0" />
+              <point x="831.525" y="238.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="com.company.Part3_2.HiTech" target="com.company.Part3_2.Observer">
+              <point x="-78.33333333333326" y="-115.0" />
+              <point x="744.6666666666667" y="218.0" />
+              <point x="673.7208333333333" y="218.0" />
+              <point x="673.7208333333333" y="82.0" />
+              <point x="773.3208333333333" y="82.0" />
+              <point x="-34.200000000000045" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.GreenState">
+              <point x="32.0" y="-214.0" />
+              <point x="386.37499999999994" y="518.0" />
+              <point x="508.66666666666663" y="518.0" />
+              <point x="-70.33333333333331" y="115.0" />
+            </edge>
+            <edge source="com.company.Part3_2.YellowState" target="com.company.Part3_2.State">
+              <point x="0.0" y="-115.0" />
+              <point x="117.5" y="228.0" />
+              <point x="266.3" y="228.0" />
+              <point x="-83.2" y="48.0" />
+            </edge>
+            <edge source="com.company.Part3_2.GreenState" target="com.company.Part3_2.State">
+              <point x="0.0" y="-115.0" />
+              <point x="579.0" y="238.0" />
+              <point x="391.09999999999997" y="238.0" />
+              <point x="41.599999999999966" y="48.0" />
+            </edge>
+            <edge source="com.company.Part3_2.RedState" target="com.company.Part3_2.State">
+              <point x="0.0" y="-115.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="com.company.Part3_2.TrafficLight" target="com.company.Part3_2.RedState">
+              <point x="-16.0" y="-214.0" />
+              <point x="338.37499999999994" y="508.0" />
+              <point x="280.16666666666663" y="508.0" />
+              <point x="-69.33333333333337" y="115.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-79.5" y="531.0" />
+          <SelectedNodes>
+            <node>com.company.Part3_2.TrafficLight</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/part3_2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.company.Part3_2.Observer</node>
+            <node x="" y="">com.company.Part3_2.GreenState</node>
+            <node x="" y="">com.company.Part3_2.State</node>
+            <node x="" y="">com.company.Part3_2.Subject</node>
+            <node x="" y="">com.company.Part3_2.Main</node>
+            <node x="" y="">com.company.Part3_2.RedState</node>
+            <node x="" y="">com.company.Part3_2.YellowState</node>
+            <node x="" y="">com.company.Part3_2.TrafficLight</node>
+            <node x="" y="">com.company.Part3_2.HiTech</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

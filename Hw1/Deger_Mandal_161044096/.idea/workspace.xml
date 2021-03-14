@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47e2ca47-a4b0-4047-a972-2ffa710618af" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Part3.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="353.3750000000001" y="263.0">com.company.Part3.ArmoredSuitsDecorator</node>
+                <node x="910.0000000000001" y="296.5">com.company.Part3.Ora</node>
+                <node x="779.0000000000001" y="0.0">com.company.Part3.ArmoredSuits</node>
+                <node x="252.0000000000001" y="432.0">com.company.Part3.Laser</node>
+                <node x="1140.0" y="296.5">com.company.Part3.Dec</node>
+                <node x="765.4473684210528" y="554.0">com.company.Part3.Main</node>
+                <node x="448.0000000000001" y="432.0">com.company.Part3.FlameThrower</node>
+                <node x="1026.0" y="296.5">com.company.Part3.Tor</node>
+                <node x="0.0" y="432.0">com.company.Part3.RocketLauncher</node>
+                <node x="691.0000000000001" y="432.0">com.company.Part3.AutoRifle</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.FlameThrower">
+                  <point x="-30.562500000000057" y="-26.0" />
+                  <point x="816.3848684210527" y="514.0" />
+                  <point x="559.5000000000001" y="514.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Dec" target="com.company.Part3.ArmoredSuits">
+                  <point x="-24.0" y="-26.0" />
+                  <point x="1164.0" y="193.0" />
+                  <point x="940.607142857143" y="193.0" />
+                  <point x="71.10714285714289" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuits">
+                  <point x="55.75" y="-26.0" />
+                  <point x="615.2500000000001" y="412.0" />
+                  <point x="598.6875000000001" y="412.0" />
+                  <point x="598.6875000000001" y="233.0" />
+                  <point x="850.1071428571429" y="233.0" />
+                  <point x="-19.392857142857167" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.Ora" target="com.company.Part3.ArmoredSuits">
+                  <point x="24.0" y="-26.0" />
+                  <point x="982.0000000000001" y="223.0" />
+                  <point x="901.8214285714287" y="223.0" />
+                  <point x="32.321428571428555" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuits">
+                  <point x="49.5" y="-26.0" />
+                  <point x="839.5000000000001" y="243.0" />
+                  <point x="863.0357142857144" y="243.0" />
+                  <point x="-6.464285714285722" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuitsDecorator">
+                  <point x="-55.75" y="-26.0" />
+                  <point x="503.7500000000001" y="412.0" />
+                  <point x="466.5000000000001" y="412.0" />
+                  <point x="22.625" y="59.5" />
+                </edge>
+                <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuitsDecorator">
+                  <point x="58.0" y="-26.0" />
+                  <point x="174.0" y="412.0" />
+                  <point x="376.0000000000001" y="412.0" />
+                  <point x="-67.875" y="59.5" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.Dec">
+                  <point x="71.31249999999994" y="-26.0" />
+                  <point x="918.2598684210527" y="534.0" />
+                  <point x="1188.0" y="534.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Tor" target="com.company.Part3.ArmoredSuits">
+                  <point x="23.5" y="-26.0" />
+                  <point x="1096.5" y="203.0" />
+                  <point x="927.6785714285716" y="203.0" />
+                  <point x="58.178571428571445" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuits">
+                  <point x="-58.0" y="-26.0" />
+                  <point x="58.0" y="183.0" />
+                  <point x="785.4642857142858" y="183.0" />
+                  <point x="-84.03571428571428" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuitsDecorator">
+                  <point x="-49.5" y="-26.0" />
+                  <point x="740.5000000000001" y="402.0" />
+                  <point x="511.7500000000001" y="402.0" />
+                  <point x="67.875" y="59.5" />
+                </edge>
+                <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuits">
+                  <point x="-44.0" y="-26.0" />
+                  <point x="296.0000000000001" y="402.0" />
+                  <point x="300.8125000000001" y="402.0" />
+                  <point x="300.8125000000001" y="193.0" />
+                  <point x="798.3928571428572" y="193.0" />
+                  <point x="-71.10714285714289" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.AutoRifle">
+                  <point x="-10.187500000000057" y="-26.0" />
+                  <point x="836.7598684210527" y="504.0" />
+                  <point x="790.0000000000001" y="504.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.Ora">
+                  <point x="30.562499999999943" y="-26.0" />
+                  <point x="877.5098684210527" y="514.0" />
+                  <point x="958.0000000000001" y="514.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.ArmoredSuitsDecorator" target="com.company.Part3.ArmoredSuits">
+                  <point x="0.0" y="-59.5" />
+                  <point x="443.8750000000001" y="213.0" />
+                  <point x="824.2500000000001" y="213.0" />
+                  <point x="-45.25" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.ArmoredSuits">
+                  <point x="10.187499999999943" y="-26.0" />
+                  <point x="857.1348684210527" y="504.0" />
+                  <point x="899.5000000000001" y="504.0" />
+                  <point x="899.5000000000001" y="243.0" />
+                  <point x="875.9642857142858" y="243.0" />
+                  <point x="6.464285714285722" y="81.5" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.Laser">
+                  <point x="-50.93750000000006" y="-26.0" />
+                  <point x="796.0098684210527" y="524.0" />
+                  <point x="340.0000000000001" y="524.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.Tor">
+                  <point x="50.93749999999994" y="-26.0" />
+                  <point x="897.8848684210527" y="524.0" />
+                  <point x="1073.0" y="524.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Main" target="com.company.Part3.RocketLauncher">
+                  <point x="-71.31250000000006" y="-26.0" />
+                  <point x="775.6348684210527" y="534.0" />
+                  <point x="116.0" y="534.0" />
+                  <point x="0.0" y="26.0" />
+                </edge>
+                <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuitsDecorator">
+                  <point x="44.0" y="-26.0" />
+                  <point x="384.0000000000001" y="412.0" />
+                  <point x="421.2500000000001" y="412.0" />
+                  <point x="-22.625" y="59.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7651757188498403" x="618.0" y="322.60334029227556" />
+              <SelectedNodes>
+                <node>com.company.Part3.ArmoredSuitsDecorator</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Part2/WebSite.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="423" />
+    <option name="y" value="366" />
+    <option name="width" value="1188" />
+    <option name="height" value="918" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Deger_Mandal_161044096" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deger_Mandal_161044096" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deger_Mandal_161044096" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deger_Mandal_161044096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deger_Mandal_161044096" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deger_Mandal_161044096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deger_Mandal_161044096" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deger_Mandal_161044096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606078997230" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Part3" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part1.Main" />
+      <module name="Deger_Mandal_161044096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part2.Main" />
+      <module name="Deger_Mandal_161044096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part3.Main" />
+      <module name="Deger_Mandal_161044096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Deger_Mandal_161044096" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47e2ca47-a4b0-4047-a972-2ffa710618af" name="Default Changelist" comment="" />
+      <created>1606068265833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606068265833</updated>
+      <workItem from="1606068269040" duration="5960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5960000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="simpleUML" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19433199" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/LinearContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/Part1.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="355.0" y="360.0">com.company.Part1.Main</node>
+            <node x="595.0" y="102.0">com.company.Part1.OperationMatrixInversion</node>
+            <node x="0.0" y="113.0">com.company.Part1.OperationGaussianElimination</node>
+            <node x="298.0" y="146.0">com.company.Part1.LinearContext</node>
+            <node x="365.5" y="0.0">com.company.Part1.LinearStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part1.OperationGaussianElimination" target="com.company.Part1.LinearStrategy">
+              <point x="0.0" y="-93.0" />
+              <point x="139.0" y="72.0" />
+              <point x="383.25" y="72.0" />
+              <point x="-53.25" y="26.0" />
+            </edge>
+            <edge source="com.company.Part1.LinearContext" target="com.company.Part1.LinearStrategy">
+              <point x="-69.25" y="-60.0" />
+              <point x="367.25" y="82.0" />
+              <point x="418.75" y="82.0" />
+              <point x="-17.75" y="26.0" />
+            </edge>
+            <edge source="com.company.Part1.Main" target="com.company.Part1.OperationMatrixInversion">
+              <point x="61.125" y="-26.0" />
+              <point x="497.625" y="340.0" />
+              <point x="726.5" y="340.0" />
+              <point x="0.0" y="104.0" />
+            </edge>
+            <edge source="com.company.Part1.OperationMatrixInversion" target="com.company.Part1.LinearStrategy">
+              <point x="0.0" y="-104.0" />
+              <point x="726.5" y="72.0" />
+              <point x="489.75" y="72.0" />
+              <point x="53.25" y="26.0" />
+            </edge>
+            <edge source="com.company.Part1.Main" target="com.company.Part1.LinearContext">
+              <point x="-20.375" y="-26.0" />
+              <point x="416.125" y="330.0" />
+              <point x="367.25" y="330.0" />
+              <point x="-69.25" y="60.0" />
+            </edge>
+            <edge source="com.company.Part1.Main" target="com.company.Part1.OperationGaussianElimination">
+              <point x="-61.125" y="-26.0" />
+              <point x="375.375" y="340.0" />
+              <point x="139.0" y="340.0" />
+              <point x="0.0" y="93.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="171.5" y="206.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/WebSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/Part2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.company.Part2.AudioObserver</node>
+            <node x="" y="">com.company.Part2.AudioDisplayContent</node>
+            <node x="" y="">com.company.Part2.Observer</node>
+            <node x="" y="">com.company.Part2.WebSite</node>
+            <node x="" y="">com.company.Part2.TextObserver</node>
+            <node x="" y="">com.company.Part2.PhotographObserver</node>
+            <node x="" y="">com.company.Part2.DisplayContent</node>
+            <node x="" y="">com.company.Part2.Subject</node>
+            <node x="" y="">com.company.Part2.PhotographDisplayContent</node>
+            <node x="" y="">com.company.Part2.TextDisplayContent</node>
+            <node x="" y="">com.company.Part2.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6148825065274152" x="572.5" y="379.5053078556263" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Part3.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="353.3750000000001" y="263.0">com.company.Part3.ArmoredSuitsDecorator</node>
+            <node x="910.0000000000001" y="296.5">com.company.Part3.Ora</node>
+            <node x="779.0000000000001" y="0.0">com.company.Part3.ArmoredSuits</node>
+            <node x="252.0000000000001" y="432.0">com.company.Part3.Laser</node>
+            <node x="1140.0" y="296.5">com.company.Part3.Dec</node>
+            <node x="765.4473684210528" y="554.0">com.company.Part3.Main</node>
+            <node x="448.0000000000001" y="432.0">com.company.Part3.FlameThrower</node>
+            <node x="1026.0" y="296.5">com.company.Part3.Tor</node>
+            <node x="0.0" y="432.0">com.company.Part3.RocketLauncher</node>
+            <node x="691.0000000000001" y="432.0">com.company.Part3.AutoRifle</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.FlameThrower">
+              <point x="-30.562500000000057" y="-26.0" />
+              <point x="816.3848684210527" y="514.0" />
+              <point x="559.5000000000001" y="514.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Dec" target="com.company.Part3.ArmoredSuits">
+              <point x="-24.0" y="-26.0" />
+              <point x="1164.0" y="193.0" />
+              <point x="940.607142857143" y="193.0" />
+              <point x="71.10714285714289" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuits">
+              <point x="55.75" y="-26.0" />
+              <point x="615.2500000000001" y="412.0" />
+              <point x="598.6875000000001" y="412.0" />
+              <point x="598.6875000000001" y="233.0" />
+              <point x="850.1071428571429" y="233.0" />
+              <point x="-19.392857142857167" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.Ora" target="com.company.Part3.ArmoredSuits">
+              <point x="24.0" y="-26.0" />
+              <point x="982.0000000000001" y="223.0" />
+              <point x="901.8214285714287" y="223.0" />
+              <point x="32.321428571428555" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuits">
+              <point x="49.5" y="-26.0" />
+              <point x="839.5000000000001" y="243.0" />
+              <point x="863.0357142857144" y="243.0" />
+              <point x="-6.464285714285722" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.FlameThrower" target="com.company.Part3.ArmoredSuitsDecorator">
+              <point x="-55.75" y="-26.0" />
+              <point x="503.7500000000001" y="412.0" />
+              <point x="466.5000000000001" y="412.0" />
+              <point x="22.625" y="59.5" />
+            </edge>
+            <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuitsDecorator">
+              <point x="58.0" y="-26.0" />
+              <point x="174.0" y="412.0" />
+              <point x="376.0000000000001" y="412.0" />
+              <point x="-67.875" y="59.5" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.Dec">
+              <point x="71.31249999999994" y="-26.0" />
+              <point x="918.2598684210527" y="534.0" />
+              <point x="1188.0" y="534.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Tor" target="com.company.Part3.ArmoredSuits">
+              <point x="23.5" y="-26.0" />
+              <point x="1096.5" y="203.0" />
+              <point x="927.6785714285716" y="203.0" />
+              <point x="58.178571428571445" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.RocketLauncher" target="com.company.Part3.ArmoredSuits">
+              <point x="-58.0" y="-26.0" />
+              <point x="58.0" y="183.0" />
+              <point x="785.4642857142858" y="183.0" />
+              <point x="-84.03571428571428" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.AutoRifle" target="com.company.Part3.ArmoredSuitsDecorator">
+              <point x="-49.5" y="-26.0" />
+              <point x="740.5000000000001" y="402.0" />
+              <point x="511.7500000000001" y="402.0" />
+              <point x="67.875" y="59.5" />
+            </edge>
+            <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuits">
+              <point x="-44.0" y="-26.0" />
+              <point x="296.0000000000001" y="402.0" />
+              <point x="300.8125000000001" y="402.0" />
+              <point x="300.8125000000001" y="193.0" />
+              <point x="798.3928571428572" y="193.0" />
+              <point x="-71.10714285714289" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.AutoRifle">
+              <point x="-10.187500000000057" y="-26.0" />
+              <point x="836.7598684210527" y="504.0" />
+              <point x="790.0000000000001" y="504.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.Ora">
+              <point x="30.562499999999943" y="-26.0" />
+              <point x="877.5098684210527" y="514.0" />
+              <point x="958.0000000000001" y="514.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.ArmoredSuitsDecorator" target="com.company.Part3.ArmoredSuits">
+              <point x="0.0" y="-59.5" />
+              <point x="443.8750000000001" y="213.0" />
+              <point x="824.2500000000001" y="213.0" />
+              <point x="-45.25" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.ArmoredSuits">
+              <point x="10.187499999999943" y="-26.0" />
+              <point x="857.1348684210527" y="504.0" />
+              <point x="899.5000000000001" y="504.0" />
+              <point x="899.5000000000001" y="243.0" />
+              <point x="875.9642857142858" y="243.0" />
+              <point x="6.464285714285722" y="81.5" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.Laser">
+              <point x="-50.93750000000006" y="-26.0" />
+              <point x="796.0098684210527" y="524.0" />
+              <point x="340.0000000000001" y="524.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.Tor">
+              <point x="50.93749999999994" y="-26.0" />
+              <point x="897.8848684210527" y="524.0" />
+              <point x="1073.0" y="524.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Main" target="com.company.Part3.RocketLauncher">
+              <point x="-71.31250000000006" y="-26.0" />
+              <point x="775.6348684210527" y="534.0" />
+              <point x="116.0" y="534.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part3.Laser" target="com.company.Part3.ArmoredSuitsDecorator">
+              <point x="44.0" y="-26.0" />
+              <point x="384.0000000000001" y="412.0" />
+              <point x="421.2500000000001" y="412.0" />
+              <point x="-22.625" y="59.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7651757188498403" x="618.0" y="322.60334029227556" />
+          <SelectedNodes>
+            <node>com.company.Part3.ArmoredSuitsDecorator</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

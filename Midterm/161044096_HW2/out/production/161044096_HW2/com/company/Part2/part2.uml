@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="468.08333333333337" y="0.0">com.company.Part2.TurboPayment</node>
+    <node x="275.5" y="102.0">com.company.Part2.ModernPaymentAdaptor</node>
+    <node x="114.87500000000006" y="0.0">com.company.Part2.ModernPayment</node>
+    <node x="10.500000000000057" y="125.0">com.company.Part2.ConcreteModernPayment</node>
+    <node x="592.5" y="125.0">com.company.Part2.ConcreteTurboPayment</node>
+    <node x="342.0" y="250.0">com.company.Part2.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part2.ModernPaymentAdaptor" target="com.company.Part2.ModernPayment">
+      <point x="0.0" y="-49.0" />
+      <point x="423.5" y="72.0" />
+      <point x="329.25000000000006" y="72.0" />
+      <point x="91.875" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.ModernPayment">
+      <point x="-65.19999999999999" y="-26.0" />
+      <point x="358.30000000000007" y="230.0" />
+      <point x="0.0" y="230.0" />
+      <point x="0.0" y="72.0" />
+      <point x="145.50000000000006" y="72.0" />
+      <point x="-91.875" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.ConcreteTurboPayment">
+      <point x="65.20000000000005" y="-26.0" />
+      <point x="488.70000000000005" y="230.0" />
+      <point x="735.5" y="230.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.ConcreteModernPayment">
+      <point x="-32.599999999999966" y="-26.0" />
+      <point x="390.9000000000001" y="220.0" />
+      <point x="133.00000000000006" y="220.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.ModernPaymentAdaptor">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.TurboPayment">
+      <point x="32.60000000000002" y="-26.0" />
+      <point x="456.1" y="220.0" />
+      <point x="582.0" y="220.0" />
+      <point x="582.0" y="82.0" />
+      <point x="611.0833333333334" y="82.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.ConcreteTurboPayment" target="com.company.Part2.TurboPayment">
+      <point x="0.0" y="-26.0" />
+      <point x="735.5" y="82.0" />
+      <point x="706.4166666666667" y="82.0" />
+      <point x="95.33333333333331" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.ModernPaymentAdaptor" target="com.company.Part2.TurboPayment">
+      <point x="98.66666666666663" y="-49.0" />
+      <point x="522.1666666666666" y="82.0" />
+      <point x="515.75" y="82.0" />
+      <point x="-95.33333333333333" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.ConcreteModernPayment" target="com.company.Part2.ModernPayment">
+      <point x="0.0" y="-26.0" />
+      <point x="133.00000000000006" y="82.0" />
+      <point x="206.75000000000006" y="82.0" />
+      <point x="-30.625" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="293.0" y="95.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

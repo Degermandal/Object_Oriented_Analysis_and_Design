@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="150.0" y="0.0">com.company.Part2.ClockwiseSatelliteData.ClockwiseIterator</node>
+    <node x="0.0" y="67.0">com.company.Part2.GetIterator</node>
+    <node x="101.5" y="236.0">com.company.Part2.ClockwiseSatelliteData</node>
+    <node x="129.5" y="384.0">com.company.Part2.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part2.ClockwiseSatelliteData.ClockwiseIterator" target="com.company.Part2.ClockwiseSatelliteData">
+      <point x="61.0" y="93.0" />
+      <point x="333.0" y="211.0" />
+      <point x="284.0" y="211.0" />
+      <point x="73.0" y="-49.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.ClockwiseSatelliteData">
+      <point x="40.75" y="-26.0" />
+      <point x="251.75" y="359.0" />
+      <point x="265.75" y="359.0" />
+      <point x="54.75" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.ClockwiseSatelliteData" target="com.company.Part2.ClockwiseSatelliteData.ClockwiseIterator">
+      <point x="0.0" y="-49.0" />
+      <point x="-61.0" y="93.0" />
+    </edge>
+    <edge source="com.company.Part2.ClockwiseSatelliteData" target="com.company.Part2.GetIterator">
+      <point x="-73.0" y="-49.0" />
+      <point x="138.0" y="211.0" />
+      <point x="65.0" y="211.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9451754385964912" x="217.0" y="218.0" />
+  <SelectedNodes>
+    <node>com.company.Part2.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a69b7939-3715-4cdf-a8ec-c5bab1f806a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteTransform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#589#597#0" expanded="true" />
+                <element signature="e#642#650#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteFourierTransform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+              <folding>
+                <element signature="e#912#920#0" expanded="true" />
+                <element signature="e#971#979#0" expanded="true" />
+                <element signature="e#1577#1591#0" expanded="true" />
+                <element signature="e#1854#1855#0" expanded="true" />
+                <element signature="e#1939#1940#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteCosineTransform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#665#673#0" expanded="true" />
+                <element signature="e#960#974#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Part4/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inputFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Lithium_Cobalt.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Lithium_Ion.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/OptZoomX2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/OptZoomX3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/OptZoomX4.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Waterproof1m.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Waterproof2m.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Waterproof50cm.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/EUSmartPhoneComponentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/GlobalSmartPhoneComponentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/TurkeySmartPhoneComponentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/EUSmartPhoneStore.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/GlobalSmartPhoneStore.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/TurkeySmartPhoneStore.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/SmartPhoneComponentFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/SmartPhoneStore.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/I_I_Aman_IflasSP.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/IflasDeluxeSP.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/MaximumEffortSP.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/SmartPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/ConcreteModernPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/ConcreteTurboPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/ModernPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/TurboPayment.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/ModernPaymentAdaptor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/aa.java" />
+        <option value="$PROJECT_DIR$/inp1.txt" />
+        <option value="$PROJECT_DIR$/OutFile_Cosine.txt" />
+        <option value="$PROJECT_DIR$/OutFile_Fourier.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/RemoteControlWithUndo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Command.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/UpdateCommandDecrease.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/AlterCommandDecrease.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/SelectCommandDecrease.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/AlterCommandIncrease.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/SelectCommandIncrease.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part3/UpdateCommandIncrease.java" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/input2.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/DiscreateTransform1D.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/DiscreateTransform.java" />
+        <option value="$PROJECT_DIR$/outFile.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/Main.java" />
+        <option value="$PROJECT_DIR$/inputFile.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/DiscreteTransform.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/DiscreteFourierTransform.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Part4/DiscreteCosineTransform.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="87" />
+    <option name="y" value="-15" />
+    <option name="width" value="1347" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaDoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="161044096_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="161044096_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Part4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607476198379" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Part4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part2.Main" />
+      <module name="161044096_HW2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part3.Main" />
+      <module name="161044096_HW2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part1.Main" />
+      <module name="161044096_HW2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Part4.Main" />
+      <module name="161044096_HW2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Part4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a69b7939-3715-4cdf-a8ec-c5bab1f806a0" name="Default Changelist" comment="" />
+      <created>1606771334116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606771334116</updated>
+      <workItem from="1606771337358" duration="4860000" />
+      <workItem from="1606854032203" duration="3372000" />
+      <workItem from="1606917769514" duration="11887000" />
+      <workItem from="1606986679476" duration="3202000" />
+      <workItem from="1607012916451" duration="598000" />
+      <workItem from="1607071458301" duration="25421000" />
+      <workItem from="1607261633199" duration="2583000" />
+      <workItem from="1607322799559" duration="44798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25020242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.42984015" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27886322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25020242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25399646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.94671404" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/IflasDeluxeSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/I_I_Aman_IflasSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/SmartPhoneComponentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/EUSmartPhoneComponentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/EUSmartPhoneStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="84" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/SmartPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="145" column="35" selection-start-line="145" selection-start-column="35" selection-end-line="145" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/SmartPhoneStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/a.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="13.0" y="310.0">com.company.Part1.Camera</node>
+            <node x="159.0" y="310.0">com.company.Part1.CPU_RAM</node>
+            <node x="0.0" y="465.0">com.company.Part1.Main</node>
+            <node x="15.5" y="155.0">com.company.Part1.SmartPhone</node>
+            <node x="188.0" y="235.0">com.company.Part1.Waterproof2m</node>
+            <node x="0.0" y="235.0">com.company.Part1.MaximumEffortSP</node>
+            <node x="311.5" y="0.0">com.company.Part1.SmartPhoneStore</node>
+            <node x="304.0" y="310.0">com.company.Part1.Storage</node>
+            <node x="378.5" y="155.0">com.company.Part1.Battery</node>
+            <node x="441.5" y="390.0">com.company.Part1._32Bit</node>
+            <node x="17.5" y="0.0">com.company.Part1.SmartPhoneComponentFactory</node>
+            <node x="438.0" y="310.0">com.company.Part1.Display</node>
+            <node x="359.0" y="235.0">com.company.Part1.Lithium_Boron</node>
+            <node x="294.0" y="80.0">com.company.Part1.TurkeySmartPhoneStore</node>
+            <node x="164.5" y="390.0">com.company.Part1._8Cores</node>
+            <node x="0.0" y="390.0">com.company.Part1.OptZoomX4</node>
+            <node x="305.0" y="390.0">com.company.Part1._128GB</node>
+            <node x="0.0" y="80.0">com.company.Part1.TurkeySmartPhoneComponentFactory</node>
+            <node x="215.0" y="155.0">com.company.Part1.Case</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part1.TurkeySmartPhoneStore" target="com.company.Part1.SmartPhoneStore">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1.OptZoomX4" target="com.company.Part1.Camera">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1.Lithium_Boron" target="com.company.Part1.Battery">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1._128GB" target="com.company.Part1.Storage">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1._8Cores" target="com.company.Part1.CPU_RAM">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1.TurkeySmartPhoneComponentFactory" target="com.company.Part1.SmartPhoneComponentFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1.MaximumEffortSP" target="com.company.Part1.SmartPhone">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1.Waterproof2m" target="com.company.Part1.Case">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.company.Part1._32Bit" target="com.company.Part1.Display">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6395027624309392" x="714.0" y="273.25269978401724" />
+          <SelectedNodes>
+            <node>com.company.Part1.Camera</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/ConcreteModernPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/ConcreteTurboPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/TurboPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/ModernPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/ModernPaymentAdaptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/part2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="0.0">com.company.Part2.TurboPayment</node>
+            <node x="326.0291666666667" y="102.0">com.company.Part2.ModernPaymentAdaptor</node>
+            <node x="491.4645833333334" y="0.0">com.company.Part2.ModernPayment</node>
+            <node x="643.0291666666667" y="125.0">com.company.Part2.ConcreteModernPayment</node>
+            <node x="20.029166666666697" y="125.0">com.company.Part2.ConcreteTurboPayment</node>
+            <node x="392.5291666666667" y="250.0">com.company.Part2.Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part2.ModernPaymentAdaptor" target="com.company.Part2.ModernPayment">
+              <point x="0.0" y="-49.0" />
+              <point x="474.0291666666667" y="77.0" />
+              <point x="522.0895833333334" y="77.0" />
+              <point x="-91.875" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.Main" target="com.company.Part2.ModernPayment">
+              <point x="32.60000000000002" y="-26.0" />
+              <point x="506.6291666666667" y="220.0" />
+              <point x="632.5291666666667" y="220.0" />
+              <point x="632.5291666666667" y="77.0" />
+              <point x="644.5895833333334" y="77.0" />
+              <point x="30.625" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.Main" target="com.company.Part2.ConcreteTurboPayment">
+              <point x="-32.599999999999966" y="-26.0" />
+              <point x="441.42916666666673" y="220.0" />
+              <point x="163.0291666666667" y="220.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.Main" target="com.company.Part2.ConcreteModernPayment">
+              <point x="65.19999999999999" y="-26.0" />
+              <point x="539.2291666666667" y="230.0" />
+              <point x="765.5291666666667" y="230.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.Main" target="com.company.Part2.ModernPaymentAdaptor">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="49.0" />
+            </edge>
+            <edge source="com.company.Part2.Main" target="com.company.Part2.TurboPayment">
+              <point x="-65.19999999999999" y="-26.0" />
+              <point x="408.8291666666667" y="230.0" />
+              <point x="9.529166666666697" y="230.0" />
+              <point x="9.529166666666697" y="77.0" />
+              <point x="47.66666666666663" y="77.0" />
+              <point x="-95.33333333333337" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.ConcreteTurboPayment" target="com.company.Part2.TurboPayment">
+              <point x="0.0" y="-26.0" />
+              <point x="163.0291666666667" y="77.0" />
+              <point x="143.0" y="77.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.ModernPaymentAdaptor" target="com.company.Part2.TurboPayment">
+              <point x="-98.66666666666669" y="-49.0" />
+              <point x="375.3625" y="77.0" />
+              <point x="238.33333333333337" y="77.0" />
+              <point x="95.33333333333337" y="26.0" />
+            </edge>
+            <edge source="com.company.Part2.ConcreteModernPayment" target="com.company.Part2.ModernPayment">
+              <point x="0.0" y="-26.0" />
+              <point x="765.5291666666667" y="77.0" />
+              <point x="705.8395833333334" y="77.0" />
+              <point x="91.875" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="221.5" y="167.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/part2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/java/io/annotations.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/aa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outFile2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out_cosine.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out_four.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutFile_Cosine.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutFile_Fourier.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/RemoteControlWithUndo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/NoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+          <folding>
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/AlterCommandDecrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/AlterCommandIncrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/UpdateCommandDecrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/SelectCommandDecrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/SelectCommandIncrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/UpdateCommandIncrease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Part3.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com.company.Part3.Transaction</node>
+            <node x="" y="">com.company.Part3.SelectCommandDecrease</node>
+            <node x="" y="">com.company.Part3.SelectCommandIncrease</node>
+            <node x="" y="">com.company.Part3.AlterCommandDecrease</node>
+            <node x="" y="">com.company.Part3.Main</node>
+            <node x="" y="">com.company.Part3.AlterCommandIncrease</node>
+            <node x="" y="">com.company.Part3.Command</node>
+            <node x="" y="">com.company.Part3.UpdateCommandDecrease</node>
+            <node x="" y="">com.company.Part3.UpdateCommandIncrease</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.4894459102902375" x="866.5" y="369.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="docComment;method#TransformNumbers#0;class#DiscreteTransform#0" />
+            <element signature="docComment;method#Transform#0;class#DiscreteTransform#0" />
+            <element signature="docComment;method#TransformNumbers#1;class#DiscreteTransform#0" />
+            <element signature="docComment;method#WriteOutputsToFile#0;class#DiscreteTransform#0" />
+            <element signature="docComment;method#WriteToFile#0;class#DiscreteTransform#0" />
+            <element signature="method#WriteToFile#0;class#DiscreteTransform#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteCosineTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteFourierTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#inpReals#0;class#DiscreteFourierTransform#0" />
+            <element signature="docComment;field#outReals#0;class#DiscreteFourierTransform#0" />
+            <element signature="docComment;field#outImgs#0;class#DiscreteFourierTransform#0" />
+            <element signature="docComment;method#ReadNumbersFromFile#0;class#DiscreteFourierTransform#0" />
+            <element signature="docComment;method#TransformNumbers#0;class#DiscreteFourierTransform#0" />
+            <element signature="method#TransformNumbers#0;class#DiscreteFourierTransform#0" />
+            <element signature="docComment;method#WriteOutputsToFile#0;class#DiscreteFourierTransform#0" />
+            <element signature="method#WriteOutputsToFile#0;class#DiscreteFourierTransform#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/Part4.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="403.00000000000006" y="301.5">com.company.Part4.DiscreteCosineTransform</node>
+            <node x="513.0" y="448.0">com.company.Part4.Main</node>
+            <node x="397.8666666666667" y="0.0">com.company.Part4.DiscreteTransform</node>
+            <node x="0.0" y="257.0">com.company.Part4.DiscreteFourierTransform</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Part4.Main" target="com.company.Part4.DiscreteCosineTransform">
+              <point x="0.0" y="-26.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+            <edge source="com.company.Part4.Main" target="com.company.Part4.DiscreteFourierTransform">
+              <point x="-54.33333333333337" y="-26.0" />
+              <point x="540.1666666666666" y="423.0" />
+              <point x="191.5" y="423.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="com.company.Part4.Main" target="com.company.Part4.DiscreteTransform">
+              <point x="54.33333333333337" y="-26.0" />
+              <point x="648.8333333333334" y="423.0" />
+              <point x="796.5" y="423.0" />
+              <point x="796.5" y="232.0" />
+              <point x="717.0333333333334" y="232.0" />
+              <point x="127.66666666666674" y="103.5" />
+            </edge>
+            <edge source="com.company.Part4.DiscreteCosineTransform" target="com.company.Part4.DiscreteTransform">
+              <point x="0.0" y="-26.0" />
+              <point x="594.5" y="232.0" />
+              <point x="589.3666666666667" y="232.0" />
+              <point x="0.0" y="103.5" />
+            </edge>
+            <edge source="com.company.Part4.DiscreteFourierTransform" target="com.company.Part4.DiscreteTransform">
+              <point x="0.0" y="-70.5" />
+              <point x="191.5" y="232.0" />
+              <point x="461.7" y="232.0" />
+              <point x="-127.66666666666669" y="103.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9211538461538461" x="156.41231732776617" y="220.5427974947808" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#589#597#0" expanded="true" />
+            <element signature="e#642#650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteFourierTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding>
+            <element signature="e#912#920#0" expanded="true" />
+            <element signature="e#971#979#0" expanded="true" />
+            <element signature="e#1577#1591#0" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
+            <element signature="e#1939#1940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Part4/DiscreteCosineTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#665#673#0" expanded="true" />
+            <element signature="e#960#974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>161044096_HW2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

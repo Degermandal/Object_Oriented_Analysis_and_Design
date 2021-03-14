@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="355.0" y="360.0">com.company.Part1.Main</node>
+    <node x="595.0" y="102.0">com.company.Part1.OperationMatrixInversion</node>
+    <node x="0.0" y="113.0">com.company.Part1.OperationGaussianElimination</node>
+    <node x="298.0" y="146.0">com.company.Part1.LinearContext</node>
+    <node x="365.5" y="0.0">com.company.Part1.LinearStrategy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part1.OperationGaussianElimination" target="com.company.Part1.LinearStrategy">
+      <point x="0.0" y="-93.0" />
+      <point x="139.0" y="72.0" />
+      <point x="383.25" y="72.0" />
+      <point x="-53.25" y="26.0" />
+    </edge>
+    <edge source="com.company.Part1.LinearContext" target="com.company.Part1.LinearStrategy">
+      <point x="-69.25" y="-60.0" />
+      <point x="367.25" y="82.0" />
+      <point x="418.75" y="82.0" />
+      <point x="-17.75" y="26.0" />
+    </edge>
+    <edge source="com.company.Part1.Main" target="com.company.Part1.OperationMatrixInversion">
+      <point x="61.125" y="-26.0" />
+      <point x="497.625" y="340.0" />
+      <point x="726.5" y="340.0" />
+      <point x="0.0" y="104.0" />
+    </edge>
+    <edge source="com.company.Part1.OperationMatrixInversion" target="com.company.Part1.LinearStrategy">
+      <point x="0.0" y="-104.0" />
+      <point x="726.5" y="72.0" />
+      <point x="489.75" y="72.0" />
+      <point x="53.25" y="26.0" />
+    </edge>
+    <edge source="com.company.Part1.Main" target="com.company.Part1.LinearContext">
+      <point x="-20.375" y="-26.0" />
+      <point x="416.125" y="330.0" />
+      <point x="367.25" y="330.0" />
+      <point x="-69.25" y="60.0" />
+    </edge>
+    <edge source="com.company.Part1.Main" target="com.company.Part1.OperationGaussianElimination">
+      <point x="-61.125" y="-26.0" />
+      <point x="375.375" y="340.0" />
+      <point x="139.0" y="340.0" />
+      <point x="0.0" y="93.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="429.0" y="206.0" />
+  <SelectedNodes>
+    <node>com.company.Part1.OperationMatrixInversion</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

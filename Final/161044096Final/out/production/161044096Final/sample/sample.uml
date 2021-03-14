@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="7.333333333333371" y="965.0">sample.Main</node>
+    <node x="237.0020833333333" y="606.5">sample.Observer</node>
+    <node x="458.0" y="1107.0">javafx.web</node>
+    <node x="258.0" y="213.5">sample.Subject</node>
+    <node x="156.0" y="1107.0">javafx.swing</node>
+    <node x="42.5958333333333" y="404.0">sample.Model</node>
+    <node x="97.08333333333337" y="742.0">sample.View</node>
+    <node x="0.0" y="0.0">sample.Memory</node>
+    <node x="23.34583333333336" y="573.0">sample.Controller</node>
+    <node x="0.0" y="125.0">sample.Person</node>
+    <node x="310.0" y="1107.0">javafx.base</node>
+    <node x="991.7020833333333" y="0.0">javafx.controls</node>
+    <node x="823.7020833333333" y="0.0">javafx.graphics</node>
+    <node x="677.7020833333333" y="16.951171875">javafx.fxml</node>
+    <node x="0.0" y="1107.0">javafx.media</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.Controller" target="sample.Model">
+      <point x="-42.0" y="-59.5" />
+      <point x="65.34583333333336" y="553.0" />
+      <point x="109.0958333333333" y="553.0" />
+      <point x="-66.5" y="59.5" />
+    </edge>
+    <edge source="javafx.fxml" target="javafx.fxml">
+      <point x="37.875" y="15.0" />
+      <point x="766.0770833333333" y="96.951171875" />
+      <point x="627.7020833333333" y="96.951171875" />
+      <point x="627.7020833333333" y="20.701171875" />
+      <point x="-50.5" y="-11.25" />
+    </edge>
+    <edge source="sample.Main" target="sample.Controller">
+      <point x="-14.166666666666657" y="-48.5" />
+      <point x="78.16666666666671" y="945.0" />
+      <point x="86.2520833333333" y="945.0" />
+      <point x="-21.0" y="59.5" />
+    </edge>
+    <edge source="sample.View" target="sample.Model">
+      <point x="123.60000000000002" y="-81.5" />
+      <point x="375.1833333333334" y="722.0" />
+      <point x="556.5020833333333" y="722.0" />
+      <point x="556.5020833333333" y="553.0" />
+      <point x="242.0958333333333" y="553.0" />
+      <point x="66.5" y="59.5" />
+    </edge>
+    <edge source="sample.Person" target="sample.Memory">
+      <point x="-59.5" y="-114.5" />
+      <point x="-59.5" y="37.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.View">
+      <point x="42.5" y="-48.5" />
+      <point x="134.83333333333337" y="935.0" />
+      <point x="328.83333333333337" y="935.0" />
+      <point x="77.25" y="81.5" />
+    </edge>
+    <edge source="sample.View" target="sample.Observer">
+      <point x="61.799999999999955" y="-81.5" />
+      <point x="313.3833333333333" y="712.0" />
+      <point x="391.5020833333333" y="712.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="sample.Model" target="sample.Subject">
+      <point x="88.66666666666669" y="-59.5" />
+      <point x="264.2625" y="379.0" />
+      <point x="391.0" y="379.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="sample.Main" target="sample.Model">
+      <point x="-70.83333333333331" y="-48.5" />
+      <point x="21.500000000000057" y="945.0" />
+      <point x="12.84583333333336" y="945.0" />
+      <point x="12.84583333333336" y="543.0" />
+      <point x="64.76249999999996" y="543.0" />
+      <point x="-110.83333333333334" y="59.5" />
+    </edge>
+    <edge source="sample.Model" target="sample.Person">
+      <point x="-88.66666666666669" y="-59.5" />
+      <point x="86.92916666666662" y="379.0" />
+      <point x="59.5" y="379.0" />
+      <point x="-59.5" y="114.5" />
+    </edge>
+    <edge source="sample.View" target="sample.Controller">
+      <point x="-123.60000000000002" y="-81.5" />
+      <point x="21.0" y="59.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="90.0" />
+  <SelectedNodes>
+    <node>javafx.graphics</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

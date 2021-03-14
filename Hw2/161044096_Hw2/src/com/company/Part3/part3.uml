@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="428.7410984848485" y="0.0">com.company.Part3.State</node>
+    <node x="319.83333333333326" y="846.0">com.company.Part3.Main</node>
+    <node x="297.33333333333326" y="390.0">com.company.Part3.TrafficLight</node>
+    <node x="0.0" y="146.0">com.company.Part3.RedState</node>
+    <node x="228.0" y="146.0">com.company.Part3.YellowState</node>
+    <node x="456.0" y="146.0">com.company.Part3.GreenState</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part3.TrafficLight" target="com.company.Part3.RedState">
+      <point x="-94.5454545454545" y="-203.0" />
+      <point x="306.78787878787875" y="370.0" />
+      <point x="34.666666666666686" y="370.0" />
+      <point x="-69.33333333333331" y="82.0" />
+    </edge>
+    <edge source="com.company.Part3.RedState" target="com.company.Part3.TrafficLight">
+      <point x="0.0" y="82.0" />
+      <point x="104.0" y="360.0" />
+      <point x="325.69696969696963" y="360.0" />
+      <point x="-75.63636363636363" y="-203.0" />
+    </edge>
+    <edge source="com.company.Part3.GreenState" target="com.company.Part3.State">
+      <point x="0.0" y="-82.0" />
+      <point x="560.0" y="126.0" />
+      <point x="532.7410984848485" y="126.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="com.company.Part3.YellowState" target="com.company.Part3.TrafficLight">
+      <point x="69.33333333333326" y="82.0" />
+      <point x="0.0" y="-203.0" />
+    </edge>
+    <edge source="com.company.Part3.RedState" target="com.company.Part3.State">
+      <point x="0.0" y="-82.0" />
+      <point x="104.0" y="116.0" />
+      <point x="449.54109848484853" y="116.0" />
+      <point x="-83.19999999999999" y="48.0" />
+    </edge>
+    <edge source="com.company.Part3.TrafficLight" target="com.company.Part3.State">
+      <point x="75.63636363636363" y="-203.0" />
+      <point x="476.9696969696969" y="360.0" />
+      <point x="674.5" y="360.0" />
+      <point x="674.5" y="126.0" />
+      <point x="574.3410984848484" y="126.0" />
+      <point x="41.599999999999895" y="48.0" />
+    </edge>
+    <edge source="com.company.Part3.Main" target="com.company.Part3.TrafficLight">
+      <point x="40.75" y="-26.0" />
+      <point x="442.08333333333326" y="821.0" />
+      <point x="453.33333333333326" y="821.0" />
+      <point x="52.0" y="203.0" />
+    </edge>
+    <edge source="com.company.Part3.TrafficLight" target="com.company.Part3.GreenState">
+      <point x="18.909090909090878" y="-203.0" />
+      <point x="420.24242424242414" y="330.0" />
+      <point x="490.6666666666667" y="330.0" />
+      <point x="-69.33333333333333" y="82.0" />
+    </edge>
+    <edge source="com.company.Part3.TrafficLight" target="com.company.Part3.YellowState">
+      <point x="-37.81818181818181" y="-203.0" />
+      <point x="363.51515151515144" y="340.0" />
+      <point x="262.6666666666667" y="340.0" />
+      <point x="-69.33333333333331" y="82.0" />
+    </edge>
+    <edge source="com.company.Part3.YellowState" target="com.company.Part3.State">
+      <point x="0.0" y="-82.0" />
+      <point x="332.0" y="126.0" />
+      <point x="491.1410984848485" y="126.0" />
+      <point x="-41.60000000000002" y="48.0" />
+    </edge>
+    <edge source="com.company.Part3.GreenState" target="com.company.Part3.TrafficLight">
+      <point x="69.3333333333333" y="82.0" />
+      <point x="629.3333333333333" y="350.0" />
+      <point x="458.060606060606" y="350.0" />
+      <point x="56.72727272727275" y="-203.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="499.5" y="193.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

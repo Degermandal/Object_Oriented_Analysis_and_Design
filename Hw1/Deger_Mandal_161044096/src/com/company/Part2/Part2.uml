@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="338.5" y="536.0">com.company.Part2.AudioObserver</node>
+    <node x="380.33333333333337" y="323.0">com.company.Part2.AudioDisplayContent</node>
+    <node x="648.3333333333334" y="0.0">com.company.Part2.Observer</node>
+    <node x="620.3333333333334" y="268.0">com.company.Part2.WebSite</node>
+    <node x="141.5" y="536.0">com.company.Part2.TextObserver</node>
+    <node x="890.8661081716638" y="536.0">com.company.Part2.PhotographObserver</node>
+    <node x="578.3333333333334" y="144.0">com.company.Part2.DisplayContent</node>
+    <node x="799.0661081716638" y="122.0">com.company.Part2.Subject</node>
+    <node x="899.3333333333334" y="323.0">com.company.Part2.PhotographDisplayContent</node>
+    <node x="10.5" y="323.0">com.company.Part2.TextDisplayContent</node>
+    <node x="450.8253086419753" y="704.0">com.company.Part2.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Part2.Subject" target="com.company.Part2.Observer">
+      <point x="0.0" y="-48.0" />
+      <point x="892.5661081716638" y="82.0" />
+      <point x="782.6904761904763" y="82.0" />
+      <point x="48.85714285714289" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.AudioDisplayContent" target="com.company.Part2.DisplayContent">
+      <point x="0.0" y="-49.0" />
+      <point x="490.33333333333337" y="248.0" />
+      <point x="621.8333333333334" y="248.0" />
+      <point x="-29.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.TextDisplayContent">
+      <point x="-54.33333333333337" y="-26.0" />
+      <point x="477.99197530864194" y="674.0" />
+      <point x="62.75" y="674.0" />
+      <point x="-52.25" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.PhotographObserver" target="com.company.Part2.Observer">
+      <point x="73.0" y="-49.0" />
+      <point x="1073.3661081716637" y="516.0" />
+      <point x="1196.3840975896533" y="516.0" />
+      <point x="1196.3840975896533" y="72.0" />
+      <point x="807.1190476190477" y="72.0" />
+      <point x="73.28571428571428" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.AudioObserver">
+      <point x="-18.111111111111086" y="-26.0" />
+      <point x="514.2141975308642" y="654.0" />
+      <point x="432.5" y="654.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.PhotographDisplayContent">
+      <point x="72.44444444444446" y="-26.0" />
+      <point x="604.7697530864198" y="684.0" />
+      <point x="1120.3661081716637" y="684.0" />
+      <point x="1120.3661081716637" y="506.0" />
+      <point x="1088.3333333333335" y="506.0" />
+      <point x="63.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.AudioObserver" target="com.company.Part2.AudioDisplayContent">
+      <point x="0.0" y="-49.0" />
+      <point x="432.5" y="496.0" />
+      <point x="435.33333333333337" y="496.0" />
+      <point x="-55.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.AudioObserver" target="com.company.Part2.WebSite">
+      <point x="62.66666666666666" y="-49.0" />
+      <point x="495.16666666666663" y="516.0" />
+      <point x="698.0333333333333" y="516.0" />
+      <point x="-51.80000000000001" y="104.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.PhotographObserver">
+      <point x="54.33333333333337" y="-26.0" />
+      <point x="586.6586419753087" y="674.0" />
+      <point x="1000.3661081716638" y="674.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.WebSite" target="com.company.Part2.DisplayContent">
+      <point x="-51.80000000000001" y="-104.0" />
+      <point x="698.0333333333333" y="248.0" />
+      <point x="679.8333333333334" y="248.0" />
+      <point x="29.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.WebSite">
+      <point x="36.22222222222217" y="-26.0" />
+      <point x="568.5475308641975" y="664.0" />
+      <point x="798.8661081716638" y="664.0" />
+      <point x="798.8661081716638" y="516.0" />
+      <point x="801.6333333333334" y="516.0" />
+      <point x="51.80000000000001" y="104.0" />
+    </edge>
+    <edge source="com.company.Part2.AudioObserver" target="com.company.Part2.Observer">
+      <point x="-62.66666666666666" y="-49.0" />
+      <point x="369.83333333333337" y="496.0" />
+      <point x="321.5425338036449" y="496.0" />
+      <point x="321.5425338036449" y="102.0" />
+      <point x="709.4047619047619" y="102.0" />
+      <point x="-24.428571428571445" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.PhotographObserver" target="com.company.Part2.WebSite">
+      <point x="-73.0" y="-49.0" />
+      <point x="927.3661081716638" y="516.0" />
+      <point x="853.4333333333334" y="516.0" />
+      <point x="103.60000000000002" y="104.0" />
+    </edge>
+    <edge source="com.company.Part2.WebSite" target="com.company.Part2.Subject">
+      <point x="103.60000000000002" y="-104.0" />
+      <point x="853.4333333333334" y="248.0" />
+      <point x="892.5661081716638" y="248.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="com.company.Part2.WebSite" target="com.company.Part2.Observer">
+      <point x="0.0" y="-104.0" />
+      <point x="749.8333333333334" y="248.0" />
+      <point x="777.5661081716638" y="248.0" />
+      <point x="777.5661081716638" y="102.0" />
+      <point x="733.8333333333334" y="102.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.PhotographDisplayContent" target="com.company.Part2.DisplayContent">
+      <point x="0.0" y="-49.0" />
+      <point x="1025.3333333333335" y="238.0" />
+      <point x="708.8333333333334" y="238.0" />
+      <point x="58.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.TextObserver" target="com.company.Part2.WebSite">
+      <point x="59.0" y="-49.0" />
+      <point x="289.0" y="506.0" />
+      <point x="646.2333333333333" y="506.0" />
+      <point x="-103.60000000000002" y="104.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.TextObserver">
+      <point x="-36.222222222222285" y="-26.0" />
+      <point x="496.103086419753" y="664.0" />
+      <point x="230.0" y="664.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.PhotographObserver" target="com.company.Part2.PhotographDisplayContent">
+      <point x="0.0" y="-49.0" />
+      <point x="1000.3661081716638" y="516.0" />
+      <point x="962.3333333333334" y="516.0" />
+      <point x="-63.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.TextObserver" target="com.company.Part2.TextDisplayContent">
+      <point x="-59.0" y="-49.0" />
+      <point x="171.0" y="516.0" />
+      <point x="167.25" y="516.0" />
+      <point x="52.25" y="49.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.Observer">
+      <point x="-72.44444444444446" y="-26.0" />
+      <point x="459.88086419753085" y="684.0" />
+      <point x="0.0" y="684.0" />
+      <point x="0.0" y="82.0" />
+      <point x="660.547619047619" y="82.0" />
+      <point x="-73.28571428571428" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.TextDisplayContent" target="com.company.Part2.DisplayContent">
+      <point x="0.0" y="-49.0" />
+      <point x="115.0" y="238.0" />
+      <point x="592.8333333333334" y="238.0" />
+      <point x="-58.0" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.TextObserver" target="com.company.Part2.Observer">
+      <point x="0.0" y="-49.0" />
+      <point x="230.0" y="92.0" />
+      <point x="684.9761904761906" y="92.0" />
+      <point x="-48.85714285714283" y="26.0" />
+    </edge>
+    <edge source="com.company.Part2.Main" target="com.company.Part2.AudioDisplayContent">
+      <point x="0.0" y="-26.0" />
+      <point x="532.3253086419753" y="684.0" />
+      <point x="545.3333333333334" y="684.0" />
+      <point x="55.0" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6541666666666666" x="477.0" y="350.00000000000006" />
+  <SelectedNodes>
+    <node>com.company.Part2.PhotographDisplayContent</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
